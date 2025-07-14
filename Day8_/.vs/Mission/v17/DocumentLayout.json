@@ -1,0 +1,274 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manus\\OneDrive\\Desktop\\Day8_\\backened\\Mission\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA8CD4B-3DC9-4176-8FCC-EAA927C05B2B}|Mission.Api\\Mission.Api.csproj|c:\\users\\manus\\onedrive\\desktop\\day8_\\backened\\mission\\mission.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA8CD4B-3DC9-4176-8FCC-EAA927C05B2B}|Mission.Api\\Mission.Api.csproj|solutionrelative:mission.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0E9A45-85B9-4C7D-AC8A-9ABE8A1D2FA6}|Mission.Entities\\Mission.Entities.csproj|c:\\users\\manus\\onedrive\\desktop\\day8_\\backened\\mission\\mission.entities\\migrations\\20250704050418_adduserentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F0E9A45-85B9-4C7D-AC8A-9ABE8A1D2FA6}|Mission.Entities\\Mission.Entities.csproj|solutionrelative:mission.entities\\migrations\\20250704050418_adduserentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0E9A45-85B9-4C7D-AC8A-9ABE8A1D2FA6}|Mission.Entities\\Mission.Entities.csproj|c:\\users\\manus\\onedrive\\desktop\\day8_\\backened\\mission\\mission.entities\\migrations\\20250704050418_adduserentity.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F0E9A45-85B9-4C7D-AC8A-9ABE8A1D2FA6}|Mission.Entities\\Mission.Entities.csproj|solutionrelative:mission.entities\\migrations\\20250704050418_adduserentity.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0E9A45-85B9-4C7D-AC8A-9ABE8A1D2FA6}|Mission.Entities\\Mission.Entities.csproj|c:\\users\\manus\\onedrive\\desktop\\day8_\\backened\\mission\\mission.entities\\migrations\\20250709061207_createmissionskillentity.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F0E9A45-85B9-4C7D-AC8A-9ABE8A1D2FA6}|Mission.Entities\\Mission.Entities.csproj|solutionrelative:mission.entities\\migrations\\20250709061207_createmissionskillentity.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0E9A45-85B9-4C7D-AC8A-9ABE8A1D2FA6}|Mission.Entities\\Mission.Entities.csproj|c:\\users\\manus\\onedrive\\desktop\\day8_\\backened\\mission\\mission.entities\\migrations\\20250709132728_createmissionthemecityandcountryentity.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F0E9A45-85B9-4C7D-AC8A-9ABE8A1D2FA6}|Mission.Entities\\Mission.Entities.csproj|solutionrelative:mission.entities\\migrations\\20250709132728_createmissionthemecityandcountryentity.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0E9A45-85B9-4C7D-AC8A-9ABE8A1D2FA6}|Mission.Entities\\Mission.Entities.csproj|c:\\users\\manus\\onedrive\\desktop\\day8_\\backened\\mission\\mission.entities\\migrations\\20250709134517_updatecityandcountryentity.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F0E9A45-85B9-4C7D-AC8A-9ABE8A1D2FA6}|Mission.Entities\\Mission.Entities.csproj|solutionrelative:mission.entities\\migrations\\20250709134517_updatecityandcountryentity.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0E9A45-85B9-4C7D-AC8A-9ABE8A1D2FA6}|Mission.Entities\\Mission.Entities.csproj|c:\\users\\manus\\onedrive\\desktop\\day8_\\backened\\mission\\mission.entities\\migrations\\20250710061607_creatednewmissionentity.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F0E9A45-85B9-4C7D-AC8A-9ABE8A1D2FA6}|Mission.Entities\\Mission.Entities.csproj|solutionrelative:mission.entities\\migrations\\20250710061607_creatednewmissionentity.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0E9A45-85B9-4C7D-AC8A-9ABE8A1D2FA6}|Mission.Entities\\Mission.Entities.csproj|c:\\users\\manus\\onedrive\\desktop\\day8_\\backened\\mission\\mission.entities\\migrations\\20250710064449_updatemissionentity.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F0E9A45-85B9-4C7D-AC8A-9ABE8A1D2FA6}|Mission.Entities\\Mission.Entities.csproj|solutionrelative:mission.entities\\migrations\\20250710064449_updatemissionentity.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0E9A45-85B9-4C7D-AC8A-9ABE8A1D2FA6}|Mission.Entities\\Mission.Entities.csproj|c:\\users\\manus\\onedrive\\desktop\\day8_\\backened\\mission\\mission.entities\\migrations\\20250710070729_updatemissionskillonmissionentity.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F0E9A45-85B9-4C7D-AC8A-9ABE8A1D2FA6}|Mission.Entities\\Mission.Entities.csproj|solutionrelative:mission.entities\\migrations\\20250710070729_updatemissionskillonmissionentity.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0E9A45-85B9-4C7D-AC8A-9ABE8A1D2FA6}|Mission.Entities\\Mission.Entities.csproj|c:\\users\\manus\\onedrive\\desktop\\day8_\\backened\\mission\\mission.entities\\migrations\\20250711062255_addnewmissionapplicationentity.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F0E9A45-85B9-4C7D-AC8A-9ABE8A1D2FA6}|Mission.Entities\\Mission.Entities.csproj|solutionrelative:mission.entities\\migrations\\20250711062255_addnewmissionapplicationentity.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA8CD4B-3DC9-4176-8FCC-EAA927C05B2B}|Mission.Api\\Mission.Api.csproj|c:\\users\\manus\\onedrive\\desktop\\day8_\\backened\\mission\\mission.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ACA8CD4B-3DC9-4176-8FCC-EAA927C05B2B}|Mission.Api\\Mission.Api.csproj|solutionrelative:mission.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0E9A45-85B9-4C7D-AC8A-9ABE8A1D2FA6}|Mission.Entities\\Mission.Entities.csproj|c:\\users\\manus\\onedrive\\desktop\\day8_\\backened\\mission\\mission.entities\\missiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F0E9A45-85B9-4C7D-AC8A-9ABE8A1D2FA6}|Mission.Entities\\Mission.Entities.csproj|solutionrelative:mission.entities\\missiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0E9A45-85B9-4C7D-AC8A-9ABE8A1D2FA6}|Mission.Entities\\Mission.Entities.csproj|c:\\users\\manus\\onedrive\\desktop\\day8_\\backened\\mission\\mission.entities\\migrations\\missiondbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F0E9A45-85B9-4C7D-AC8A-9ABE8A1D2FA6}|Mission.Entities\\Mission.Entities.csproj|solutionrelative:mission.entities\\migrations\\missiondbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA8CD4B-3DC9-4176-8FCC-EAA927C05B2B}|Mission.Api\\Mission.Api.csproj|c:\\users\\manus\\onedrive\\desktop\\day8_\\backened\\mission\\mission.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA8CD4B-3DC9-4176-8FCC-EAA927C05B2B}|Mission.Api\\Mission.Api.csproj|solutionrelative:mission.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\manus\\OneDrive\\Desktop\\Day8_\\backened\\Mission\\Mission.Api\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Mission.Api\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\manus\\OneDrive\\Desktop\\Day8_\\backened\\Mission\\Mission.Api\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Mission.Api\\Controllers\\UserController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T08:26:51.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250704050418_AddUserEntity.cs",
+              "DocumentMoniker": "C:\\Users\\manus\\OneDrive\\Desktop\\Day8_\\backened\\Mission\\Mission.Entities\\Migrations\\20250704050418_AddUserEntity.cs",
+              "RelativeDocumentMoniker": "Mission.Entities\\Migrations\\20250704050418_AddUserEntity.cs",
+              "ToolTip": "C:\\Users\\manus\\OneDrive\\Desktop\\Day8_\\backened\\Mission\\Mission.Entities\\Migrations\\20250704050418_AddUserEntity.cs",
+              "RelativeToolTip": "Mission.Entities\\Migrations\\20250704050418_AddUserEntity.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAewCMAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T07:21:44.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250704050418_AddUserEntity.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\manus\\OneDrive\\Desktop\\Day8_\\backened\\Mission\\Mission.Entities\\Migrations\\20250704050418_AddUserEntity.Designer.cs",
+              "RelativeDocumentMoniker": "Mission.Entities\\Migrations\\20250704050418_AddUserEntity.Designer.cs",
+              "ToolTip": "C:\\Users\\manus\\OneDrive\\Desktop\\Day8_\\backened\\Mission\\Mission.Entities\\Migrations\\20250704050418_AddUserEntity.Designer.cs",
+              "RelativeToolTip": "Mission.Entities\\Migrations\\20250704050418_AddUserEntity.Designer.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAewEgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T07:21:27.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250709061207_CreateMissionSkillEntity.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\manus\\OneDrive\\Desktop\\Day8_\\backened\\Mission\\Mission.Entities\\Migrations\\20250709061207_CreateMissionSkillEntity.Designer.cs",
+              "RelativeDocumentMoniker": "Mission.Entities\\Migrations\\20250709061207_CreateMissionSkillEntity.Designer.cs",
+              "ToolTip": "C:\\Users\\manus\\OneDrive\\Desktop\\Day8_\\backened\\Mission\\Mission.Entities\\Migrations\\20250709061207_CreateMissionSkillEntity.Designer.cs",
+              "RelativeToolTip": "Mission.Entities\\Migrations\\20250709061207_CreateMissionSkillEntity.Designer.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAqwF0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T07:21:11.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250709132728_CreateMissionThemeCityAndCountryEntity.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\manus\\OneDrive\\Desktop\\Day8_\\backened\\Mission\\Mission.Entities\\Migrations\\20250709132728_CreateMissionThemeCityAndCountryEntity.Designer.cs",
+              "RelativeDocumentMoniker": "Mission.Entities\\Migrations\\20250709132728_CreateMissionThemeCityAndCountryEntity.Designer.cs",
+              "ToolTip": "C:\\Users\\manus\\OneDrive\\Desktop\\Day8_\\backened\\Mission\\Mission.Entities\\Migrations\\20250709132728_CreateMissionThemeCityAndCountryEntity.Designer.cs",
+              "RelativeToolTip": "Mission.Entities\\Migrations\\20250709132728_CreateMissionThemeCityAndCountryEntity.Designer.cs",
+              "ViewState": "AgIAAPAAAAAAAAAAAAAqwP0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T07:20:20.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250709134517_UpdateCityAndCountryEntity.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\manus\\OneDrive\\Desktop\\Day8_\\backened\\Mission\\Mission.Entities\\Migrations\\20250709134517_UpdateCityAndCountryEntity.Designer.cs",
+              "RelativeDocumentMoniker": "Mission.Entities\\Migrations\\20250709134517_UpdateCityAndCountryEntity.Designer.cs",
+              "ToolTip": "C:\\Users\\manus\\OneDrive\\Desktop\\Day8_\\backened\\Mission\\Mission.Entities\\Migrations\\20250709134517_UpdateCityAndCountryEntity.Designer.cs",
+              "RelativeToolTip": "Mission.Entities\\Migrations\\20250709134517_UpdateCityAndCountryEntity.Designer.cs",
+              "ViewState": "AgIAAPAAAAAAAAAAAAAqwPoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T07:19:48.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250710061607_CreatedNewMissionEntity.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\manus\\OneDrive\\Desktop\\Day8_\\backened\\Mission\\Mission.Entities\\Migrations\\20250710061607_CreatedNewMissionEntity.Designer.cs",
+              "RelativeDocumentMoniker": "Mission.Entities\\Migrations\\20250710061607_CreatedNewMissionEntity.Designer.cs",
+              "ToolTip": "C:\\Users\\manus\\OneDrive\\Desktop\\Day8_\\backened\\Mission\\Mission.Entities\\Migrations\\20250710061607_CreatedNewMissionEntity.Designer.cs",
+              "RelativeToolTip": "Mission.Entities\\Migrations\\20250710061607_CreatedNewMissionEntity.Designer.cs",
+              "ViewState": "AgIAAB8BAAAAAAAAAAAqwCwBAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T07:19:29.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250710064449_UpdateMissionEntity.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\manus\\OneDrive\\Desktop\\Day8_\\backened\\Mission\\Mission.Entities\\Migrations\\20250710064449_UpdateMissionEntity.Designer.cs",
+              "RelativeDocumentMoniker": "Mission.Entities\\Migrations\\20250710064449_UpdateMissionEntity.Designer.cs",
+              "ToolTip": "C:\\Users\\manus\\OneDrive\\Desktop\\Day8_\\backened\\Mission\\Mission.Entities\\Migrations\\20250710064449_UpdateMissionEntity.Designer.cs",
+              "RelativeToolTip": "Mission.Entities\\Migrations\\20250710064449_UpdateMissionEntity.Designer.cs",
+              "ViewState": "AgIAACEBAAAAAAAAAAAqwC4BAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T07:19:08.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250710070729_UpdateMissionSkillOnMissionEntity.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\manus\\OneDrive\\Desktop\\Day8_\\backened\\Mission\\Mission.Entities\\Migrations\\20250710070729_UpdateMissionSkillOnMissionEntity.Designer.cs",
+              "RelativeDocumentMoniker": "Mission.Entities\\Migrations\\20250710070729_UpdateMissionSkillOnMissionEntity.Designer.cs",
+              "ToolTip": "C:\\Users\\manus\\OneDrive\\Desktop\\Day8_\\backened\\Mission\\Mission.Entities\\Migrations\\20250710070729_UpdateMissionSkillOnMissionEntity.Designer.cs",
+              "RelativeToolTip": "Mission.Entities\\Migrations\\20250710070729_UpdateMissionSkillOnMissionEntity.Designer.cs",
+              "ViewState": "AgIAACYBAAAAAAAAAAAAwDMBAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T07:18:51.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250711062255_AddNewMissionApplicationEntity.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\manus\\OneDrive\\Desktop\\Day8_\\backened\\Mission\\Mission.Entities\\Migrations\\20250711062255_AddNewMissionApplicationEntity.Designer.cs",
+              "RelativeDocumentMoniker": "Mission.Entities\\Migrations\\20250711062255_AddNewMissionApplicationEntity.Designer.cs",
+              "ToolTip": "C:\\Users\\manus\\OneDrive\\Desktop\\Day8_\\backened\\Mission\\Mission.Entities\\Migrations\\20250711062255_AddNewMissionApplicationEntity.Designer.cs",
+              "RelativeToolTip": "Mission.Entities\\Migrations\\20250711062255_AddNewMissionApplicationEntity.Designer.cs",
+              "ViewState": "AgIAAEYBAAAAAAAAAAAAwFMBAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T07:18:34.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\manus\\OneDrive\\Desktop\\Day8_\\backened\\Mission\\Mission.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Mission.Api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\manus\\OneDrive\\Desktop\\Day8_\\backened\\Mission\\Mission.Api\\appsettings.Development.json",
+              "RelativeToolTip": "Mission.Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-11T07:18:09.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MissionDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\manus\\OneDrive\\Desktop\\Day8_\\backened\\Mission\\Mission.Entities\\MissionDbContext.cs",
+              "RelativeDocumentMoniker": "Mission.Entities\\MissionDbContext.cs",
+              "ToolTip": "C:\\Users\\manus\\OneDrive\\Desktop\\Day8_\\backened\\Mission\\Mission.Entities\\MissionDbContext.cs",
+              "RelativeToolTip": "Mission.Entities\\MissionDbContext.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAxwB0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T07:17:35.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MissionDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\manus\\OneDrive\\Desktop\\Day8_\\backened\\Mission\\Mission.Entities\\Migrations\\MissionDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Mission.Entities\\Migrations\\MissionDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\manus\\OneDrive\\Desktop\\Day8_\\backened\\Mission\\Mission.Entities\\Migrations\\MissionDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Mission.Entities\\Migrations\\MissionDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAEMBAAAAAAAAAAAAwFABAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T07:17:14.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\manus\\OneDrive\\Desktop\\Day8_\\backened\\Mission\\Mission.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Mission.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\manus\\OneDrive\\Desktop\\Day8_\\backened\\Mission\\Mission.Api\\Program.cs",
+              "RelativeToolTip": "Mission.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T04:54:57.686Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
